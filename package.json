@@ -1,0 +1,15 @@
+{
+  "name": "bootstrapproyects",
+  "version": "1.0.0",
+  "description": "Repositorio creado con el motivo de guardar ejercicios sencillos hechos en bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "practices"
+  ],
+  "author": "Omar Adrian",
+  "license": "ISC"
+}
